@@ -1,0 +1,5 @@
+@use "tailwindcss";
+
+.cpv-container {
+  @apply overflow-hidden rounded-lg border border-gray-200 shadow-lg p-4;
+}
